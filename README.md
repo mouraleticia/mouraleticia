@@ -3,22 +3,22 @@
 <table align="center">
   <tr>
     <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=mouraleticia&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false" alt="GitHub Stats da Letícia">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=mouraleticia&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats da Letícia">
     </td>
     <td>
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouraleticia&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" alt="Linguagens mais usadas">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouraleticia&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas">
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="C">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" alt="Python">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="70" alt="JavaScript">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="70" alt="C">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="70" alt="HTML5">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="70" alt="CSS3">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="70" alt="Git">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" alt="Docker">
 </p>
 
 <p align="center">
@@ -42,6 +42,10 @@ while True:
 - 🎮 Projetos pessoais em JavaScript
 
 ## 🧰 Ferramentas
+**Linguagens:** Python · JavaScript · C · HTML · CSS
+**IA:** Gemini · Claude · LangChain
+**Dev e nuvem:** Git · GitHub · Docker · Streamlit · Oracle Cloud (fundamentos)
+
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
